@@ -5,3 +5,4 @@
 azure-functions
 pillow
 requests
+azure-storage-blob
